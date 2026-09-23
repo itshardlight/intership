@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class teswt {
+class palindrome {
     public static void main(String[] args) {
 
         String name = "heleh";
